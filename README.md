@@ -14,8 +14,11 @@ Run WindowsFormsApp1.exe, located in WindowsFormsApp1\WindowsFormsApp1\bin\Debug
 
 # Usage
 • Enter in the field the number of random numbers you want to generate. Then, click the Generate button.
+
 • Your random numbers will appear in the big field at the bottom of the app window.
+
 • Don't like them? Hit "Generate" again to generate new ones!
+
 • Generate up to 1001 unique random numbers, as many times as you want!
 
 # License

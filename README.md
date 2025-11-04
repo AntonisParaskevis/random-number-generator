@@ -1,5 +1,5 @@
 # random-number-generator
-A random number generator that can generate up to 1001 unique random numbers ranging from 0 to 1000
+A random number generator that can generate up to 1001 unique random numbers ranging from 0 to 1000.
 
 # Requirements
 • Windows 7 SP1 or later

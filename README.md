@@ -3,6 +3,7 @@ A random number generator that can generate up to 1001 unique random numbers ran
 
 # Requirements
 • Windows 7 SP1 or later
+
 • .NET Framework 4.7.2 or later
 
 # Download

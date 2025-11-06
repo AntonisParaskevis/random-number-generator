@@ -2,9 +2,9 @@
 A random number generator that can generate up to 1001 unique random numbers ranging from 0 to 1000.
 
 # Requirements
-• Windows 7 SP1 or later
+• Windows 7 SP1 or newer
 
-• .NET Framework 4.7.2 or later
+• .NET Framework 4.7.2 or newer
 
 # Download
 Click the Code button, then click on "Download ZIP"
